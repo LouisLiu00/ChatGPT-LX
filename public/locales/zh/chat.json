@@ -1,4 +1,10 @@
 {
+  "Welcome to ChatGPT-LX":"欢迎来到 ChatGPT-LX",
+  "ChatGPT-LX is an open source clone of OpenAI's ChatGPT UI.":"ChatGPT-LX 是 OpenAI 的 ChatGPT UI 的开源克隆。",
+  "Important: ChatGPT-LX is 100% unaffiliated with OpenAI.":"重要提示：ChatGPT-LX 100% 与 OpenAI 无关。",
+  "ChatGPT-LX allows you to plug in your API key to use this UI with their API.":"ChatGPT-LX 允许您插入您的 API 密钥以将此 UI 与 API 一起使用。",
+  "It is only used to communicate with their API.":"这仅用于与 OpenAI 的 API 通信，我们不会收集您的信息。",
+  "Search": "搜索...",
   "OpenAI API Key Required": "需要 OpenAI API 密钥",
   "Please set your OpenAI API key in the bottom left of the sidebar.": "请在侧边栏左下角设置您的 OpenAI API 密钥。",
   "If you don't have an OpenAI API key, you can get one here: ": "如果你没有 OpenAI API 密钥，你可以在此获取：",
@@ -32,5 +38,6 @@
   "Temperature": "生成温度",
   "Precise": "保守",
   "Neutral": "中立",
-  "Creative": "随性"
+  "Creative": "随性",
+  "ChatGPT-LX is an advanced chatbot kit for OpenAI's chat models aiming to mimic ChatGPT's interface and functionality.":"ChatGPT-LX 是用于 OpenAI 聊天模型的高级聊天机器人套件，旨在模仿 ChatGPT 的界面和功能。请严格遵循相关法律法规！"
 }
