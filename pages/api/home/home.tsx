@@ -365,7 +365,7 @@ const Home = ({
         <meta name="description" content="欢迎来到 ChatGPT-LX ! ChatGPT-LX 是 OpenAI 的 ChatGPT UI 的开源克隆。ChatGPT-LX 允许您插入您的 API 密钥以将此 UI 与 API 一起使用。这仅用于与 OpenAI 的 API 通信，我们不会收集您的信息。" />
         <meta property="og:title" content="ChatGPT-LX | 一个正经的程序员 | 散淡样子"></meta>
         <meta property="og:description" content="欢迎来到 ChatGPT-LX ! ChatGPT-LX 是 OpenAI 的 ChatGPT UI 的开源克隆。ChatGPT-LX 允许您插入您的 API 密钥以将此 UI 与 API 一起使用。这仅用于与 OpenAI 的 API 通信，我们不会收集您的信息。"></meta>
-        <meta property="og:image" content="../../../public/images/lx.jpg" />
+        <meta property="og:image" content="/images/lx.jpg" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       {selectedConversation && (
