@@ -2,7 +2,7 @@
 
 ChatGPT-LX is an open source chat UI for AI models.
 
-See a [demo](https://chatgpt-lx.vercel.app).
+See a [demo](https://chat.liuxin.online).
 
 ![ChatGPT-LX](./public/screenshots/screenshot-home.png)
 
