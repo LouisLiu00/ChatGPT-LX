@@ -32,14 +32,14 @@ Host your own live version of ChatGPT-LX with Vercel.
 Build locally:
 
 ```shell
-docker build -t chatgpt-lx .
-docker run -e OPENAI_API_KEY=xxxxxxxx -p 3000:3000 chatgpt-lx
+docker build -t ChatGPT-LX .
+docker run -e OPENAI_API_KEY=xxxxxxxx -p 3000:3000 ChatGPT-LX
 ```
 
 Pull from ghcr:
 
 ```
-docker run -e OPENAI_API_KEY=xxxxxxxx -p 3000:3000 ghcr.io/mckaywrigley/chatbot-ui:main
+docker run -e OPENAI_API_KEY=xxxxxxxx -p 3000:3000 ghcr.io/LouisLiu00/ChatGPT-LX:main
 ```
 
 ## Running Locally
@@ -102,6 +102,6 @@ If you don't have an OpenAI API key, you can get one [here](https://platform.ope
 
 ## Contact
 
-If you have any questions, feel free to reach out to Mckay on [Twitter](https://twitter.com/LouisLiuOneself).
+If you have any questions, feel free to reach out to Louis on [Twitter](https://twitter.com/LouisLiuOneself).
 
 [GCSE]: https://developers.google.com/custom-search/v1/overview
