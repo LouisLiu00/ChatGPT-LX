@@ -27,7 +27,7 @@
     "react-markdown": "^8.0.5",
     "react-query": "^3.39.3",
     "react-syntax-highlighter": "^15.5.0",
-    "rehype-mathjax": "^4.0.2",
+    "rehype-mathjax": "^7.1.0",
     "remark-gfm": "^3.0.1",
     "remark-math": "^5.1.1",
     "uuid": "^9.0.0"
@@ -48,7 +48,7 @@
     "eslint": "8.36.0",
     "eslint-config-next": "13.2.4",
     "gpt-3-encoder": "^1.1.4",
-    "jsdom": "^21.1.1",
+    "jsdom": "^29.0.1",
     "postcss": "^8.4.31",
     "prettier": "^2.8.7",
     "prettier-plugin-tailwindcss": "^0.2.5",
